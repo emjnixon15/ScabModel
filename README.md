@@ -48,7 +48,7 @@ appreciated. Get in touch: emily.nixon@bristol.ac.uk
 
 ScabModel is research software. To cite ScabModel in publications, please cite the package with Dr Emily Nixon as the author and a publication which is currently in press which describes the model:
 
-Nixon, E.J., Brooks-Pollock, E., Wall, R. (2021). Sheep scab transmission: a spatially explicit dynamic metapopulation model. _Veterinary Research_ _In press_ 
+Nixon, E.J., Brooks-Pollock, E., Wall, R. (2021). Sheep scab transmission: a spatially explicit dynamic metapopulation model. _Veterinary Research_ (_In press_) 
 
 This citation will be updated once published along with any other relevant publications for citation when these become available. These will also be updated on Dr Nixon's OrcID account 0000-0002-1626-9296. 
 
