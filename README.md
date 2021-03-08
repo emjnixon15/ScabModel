@@ -41,15 +41,12 @@ Emily Nixon [![ORCID
 iD](https://orcid.org/sites/default/files/images/orcid_16x16.gif)](https://orcid.org/0000-0002-1626-9296),
 **(Maintainer)**
 
-Richard Wall
-Ellen Brooks Pollock
-
 Any suggestions, bug reports, forks and pull requests are
 appreciated. Get in touch: emily.nixon@bristol.ac.uk 
 
 ## Citation
 
-ScabModel is research software. To cite ScabModel in publications, please cite the package with Dr Emily Nixon as the author. A publication is currently in press which describes the model:
+ScabModel is research software. To cite ScabModel in publications, please cite the package with Dr Emily Nixon as the author and a publication which is currently in press which describes the model:
 
 Nixon, E.J., Brooks-Pollock, E., Wall, R. (2021). Sheep scab transmission: a spatially explicit dynamic metapopulation model. _Veterinary Research_ _In press_ 
 
@@ -72,7 +69,7 @@ To cite the original SimInf package use:
 
 ## Acknowledgments
 
-This work was financially supported by the Biotechnology and Biological Sciences Research Council-funded South West Biosciences Doctoral Training Partnership [training grant reference BB/M009122/1]. Thank you to Stefan Widgren, the corresponding author for SimInf for his assistance and permission to provide his code that I have adapted. 
+This work was financially supported by the Biotechnology and Biological Sciences Research Council-funded South West Biosciences Doctoral Training Partnership [training grant reference BB/M009122/1]. Thank you to Stefan Widgren, the corresponding author for SimInf for his assistance and permission to provide his code that I have adapted. Thank you to Ellen Brooks Pollock and Richard Wall who supervised this project. 
 
 ## License
 
