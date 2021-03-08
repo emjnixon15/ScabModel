@@ -20,7 +20,7 @@ The parameters provided in the two nodes example are as estimated from the liter
 ## Install
 Currently the model can not be installed as a package, although this document will be updated when this changes.
 
-In order to install, please download the model code.  
+In order to install, please download the zip file which contains the model code and the R code for running the model ("Twonodesexample.r") 
 
 In your terminal, change directory until you are in the folder ScabModel/SimInf 
 
@@ -33,7 +33,7 @@ When opening up a new R session type
 library(SimInf)
 ```
 
-If you have the original SimInf package installed already, you may experience some issues and so it may be best to uninstall this and then reinstall the next time that you use it. 
+If you have the original SimInf package installed already, you may experience some issues and so it may be best to uninstall this while using ScabModel and then reinstall the next time that you want to use it. 
 
 ## Authors
 
