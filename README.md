@@ -2,6 +2,8 @@
 
 ## Description
 
+## Note that the movement_paper branch contains the newest version as of Monday 11th September, which is associated with the paper in press "Treatment of sheep prior to movement: its contribution to an effective scab (psoroptic mange) management strategy" by Katie Lihou, Richard Wall and Emily Nixon ##
+
 ScabModel is a version of the SimInf package which contains modifications to the SISe_sp model that allow transmission of Psoroptic mange (sheep scab) caused by the mite _Psoroptes ovis_ to be modeled within and between farms. Please see the papers listed in the "Citation" section for a more detailed description of the model. 
 
 As the data used in these papers were provided to the authors under a data sharing agreement, these are not able to be uploaded with the code and therefore in order to use the model to run viable simulations, location and movement data for sheep holdings in the region of interest will need to be provided by the user. 
