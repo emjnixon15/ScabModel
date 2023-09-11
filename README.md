@@ -40,13 +40,19 @@ appreciated. Get in touch: emily.nixon@bristol.ac.uk
 
 ## Citation
 
-ScabModel is research software. To cite ScabModel in publications, please cite the package with Dr Emily Nixon as the author and a publication which is currently in press which describes the model:
+ScabModel is research software. To cite ScabModel in publications, please cite the package with Dr Emily Nixon as the author and the original publication which describes the model:
 
 Nixon, E.J., Brooks-Pollock, E., Wall, R. (2021). Sheep scab transmission: a spatially explicit dynamic metapopulation model. _Veterinary Research_ Doi: 10.1186/s13567-021-00924-y 
 
-This paper is currently in press and will be updated once published along with any other relevant publications for citation when these become available. These will also be updated on Dr Nixon's OrcID account 0000-0002-1626-9296. 
+Other papers that use this code:
 
-An early version of ScabModel is described in Dr Nixon's thesis - Modelling the epidemiology and economics of sheep scab in Great Britain, University of Bristol. The package has been adapted since submission of this thesis. 
+Nixon, E.J., Brooks-Pollock, E., Wall, R. (2021) Sheep scab transmission: a spatially explicit dynamic metapopulation model. Veterinary Research, 52:54. https://doi.org/10.1186/s13567-021-00924-y 
+
+Nixon, E.J., Brooks Pollock, E., Wall, R. (2022). Assessing the effectiveness of prophylactic treatment strategies for sheep scab. Veterinary Parasitology. https://doi.org/10.1016/j.vetpar.2022.109822
+
+(movement_paper branch) Lihou, K., Wall R., Nixon, E. (In press). Treatment of sheep prior to movement: its contribution to an effective scab (psoroptic mange) management strategy.
+
+An early version of ScabModel is described in Emily's thesis - Modelling the epidemiology and economics of sheep scab in Great Britain, University of Bristol. The package has been adapted since submission of this thesis. 
 
 To cite the original SimInf package use:
 
@@ -63,7 +69,7 @@ To cite the original SimInf package use:
 
 ## Acknowledgments
 
-This work was financially supported by the Biotechnology and Biological Sciences Research Council-funded South West Biosciences Doctoral Training Partnership [training grant reference BB/M009122/1]. Thank you to Stefan Widgren, the corresponding author for SimInf for his assistance and permission to provide his code that I have adapted. Thank you to Ellen Brooks Pollock and Richard Wall who supervised this project. 
+This work was financially supported by the Biotechnology and Biological Sciences Research Council-funded South West Biosciences Doctoral Training Partnership [training grant reference BB/M009122/1] and the Veterinary Medicines Directorate (Antiparasitic resistance: Sheep scab: VM0545). Thank you to Stefan Widgren, the corresponding author for SimInf for his assistance and permission to provide his code that I have adapted. Thank you to Ellen Brooks Pollock and Richard Wall who supervised this project.
 
 ## License
 
