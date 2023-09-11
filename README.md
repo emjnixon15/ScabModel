@@ -16,7 +16,7 @@ The parameters provided in the two nodes example are as estimated from the liter
 ## Install
 Currently the model can not be installed as a package, although this document will be updated when this changes.
 
-In order to install, please download the zip file which contains the model code and the R code for running the model ("Twonodesexample.r") 
+In order to install, please download the zip file (starting with "FINAL_USED_..") which contains the model code and the R code for running the model ("Twonodesexample.r") 
 
 In your terminal, change directory until you are in the folder ScabModel/SimInf 
 
